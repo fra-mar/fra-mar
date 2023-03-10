@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @fra-mar
-- 👀 I’m interested in python, both data analysis and science oriented...
-- 🌱 I’m currently learning...after having gone too fast wth Python last year now I try to go deep into the basics while holding what I learned about APIs, pandas, numpy, scipy...
-- 💞️ I’m looking to collaborate on ...making programming easier to everyone.
+- 👀 I'm interested in Python, GNU/Linux - Bash and C++ for microcontrollers.
+- 🌱 Iḿ currently working in anesthesia delivery devices simulators to make learning pharmacology easier.
 - 📫 How to reach me ...martinez.torrente@gmail.com
 
 <!---
